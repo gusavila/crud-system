@@ -22,6 +22,7 @@ This project is a simple full-stack CRUD (Create, Read, Update, Delete) system b
 
 ## 🗂️ Project Structure
 
+```bash
 crud-system/
 ├── client/ # React Frontend
 │ ├── public/
@@ -31,6 +32,7 @@ crud-system/
 │   └── index.js
 ├── server/ # Express Backend
   └── index.js
+```
 
 ## 💡 Technologies
 
